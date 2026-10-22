@@ -1,4 +1,4 @@
-**NGS-Variant-Analysis-and-coverage-depth**
+**ngs-variant-analysis-and-coverage-depth**
 
 **Aim:** Subsample a large Drosophila dataset to measure the effect of coverage depth on variant calls
 
